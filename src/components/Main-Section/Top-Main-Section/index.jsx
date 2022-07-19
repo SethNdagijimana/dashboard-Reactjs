@@ -22,7 +22,7 @@ class TopMainSection extends React.Component {
                 <div className="profile-messages">
                     <button><BiMessageDetail size="25px" /></button>
                     <button><IoNotificationsOutline size="25px" /></button>
-                    <img src="https://randomuser.me/api/portraits/men/45.jpg" data-int="45" data-gender="men" class="profile-pic"></img>
+                    <img src="https://randomuser.me/api/portraits/men/45.jpg" alt="profile" data-int="45" data-gender="men" class="profile-pic"></img>
                 </div>
             </div>
         )

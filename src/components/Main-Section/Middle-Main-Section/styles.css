@@ -9,9 +9,23 @@
     margin-bottom: 50px;
 }
 
+
 .top-middle-title {
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 20px;
+}
+
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+
+}
+
+p{
+    color: grey;
 }

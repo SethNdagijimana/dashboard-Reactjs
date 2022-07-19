@@ -3,7 +3,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    outline: #f4f5f7 solid 1px;
+    outline: lightgray solid 1px;
 }
 
 .top-container-text {
@@ -12,11 +12,12 @@
 
 .name-title {
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .description {
-    color: #a6a6a6;
+    color:grey;
+    font-size: 13px;
 }
 
 .input-container {

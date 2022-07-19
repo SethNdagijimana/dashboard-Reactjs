@@ -1,8 +1,8 @@
 import React from "react";
 import './styles.css';
-import php from '../../../resources/php-image.png';
-import darell from '../../../resources/91.jpg';
-import USA from '../../../resources/USA.jpg';
+// import php from '../../../resources/php-image.png';
+// import darell from '../../../resources/91.jpg';
+// import USA from '../../../resources/USA.jpg';
 
 
 class Card extends React.Component {
@@ -34,6 +34,9 @@ class Card extends React.Component {
                     </div>
                 
                 </div>
+                
+                {/* second card */}
+                
             </div>
         )
     }

@@ -6,6 +6,8 @@ import Card from "../Card";
 import php from '../../../resources/php-image.png';
 import darrel from '../../../resources/91.jpg';
 import USA from '../../../resources/USA.jpg';
+import figma from "../../../resources/figma.jpg";
+
 
 
 class MiddleMainSection extends React.Component {
@@ -31,7 +33,13 @@ class MiddleMainSection extends React.Component {
 
                 <div className="middle-middle-container">
                     <Card cardPicture={php} level="BEGINNERS" technology="Fun with PHP" picture={darrel} name="Darrel Steward" percentage="68%" ratio="19/26" flag={USA} />
+                    
                 </div>
+                  <div className="middle-middle-container">
+                    <Card cardPicture={figma} level="BEGINNERS" technology="Fun with PHP" picture={darrel} name="Darrel Steward" percentage="68%" ratio="19/26" flag={USA} />
+                    
+                </div>
+
 
             </div>
         )

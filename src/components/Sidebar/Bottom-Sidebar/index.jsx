@@ -14,7 +14,7 @@ class BottomSidebar extends React.Component {
                     </div>
                     <section className="tutors">
                         <div className="tutor">
-                            <img src="https://randomuser.me/api/portraits/women/68.jpg" data-int="68" data-gender="women" class="tutor-img" />
+                            <img src="https://randomuser.me/api/portraits/women/68.jpg" alt="profile" data-int="68" data-gender="women" class="tutor-img" />
                             <div className="name-role">
                                 <p className="name">Kathryn Murphy</p>
                                 <p className="role">PHP Developer</p>
@@ -22,7 +22,7 @@ class BottomSidebar extends React.Component {
                             <TbMessageCircle2 />
                         </div>
                         <div className="tutor">
-                            <img src="https://randomuser.me/api/portraits/men/80.jpg" data-int="80" data-gender="men" class="tutor-img" />
+                            <img src="https://randomuser.me/api/portraits/men/80.jpg" alt="profile" data-int="80" data-gender="men" class="tutor-img" />
                             <div className="name-role">
                                 <p className="name">Annette Black</p>
                                 <p className="role">Python Developer</p>
@@ -30,7 +30,7 @@ class BottomSidebar extends React.Component {
                             <TbMessageCircle2 />
                         </div>
                         <div className="tutor">
-                            <img src="https://randomuser.me/api/portraits/men/74.jpg" data-int="74" data-gender="men" class="tutor-img" />
+                            <img src="https://randomuser.me/api/portraits/men/74.jpg" alt="profile" data-int="74" data-gender="men" class="tutor-img" />
                             <div className="name-role">
                                 <p className="name">Eleanor Pena</p>
                                 <p className="role">UI Designer</p>
