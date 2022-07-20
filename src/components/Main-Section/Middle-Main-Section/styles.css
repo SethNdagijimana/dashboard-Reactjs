@@ -27,7 +27,7 @@ button{
 }
 .middle-middle-container{
     display: flex;
-  
+    overflow-y: scroll;
 }
 
 p{

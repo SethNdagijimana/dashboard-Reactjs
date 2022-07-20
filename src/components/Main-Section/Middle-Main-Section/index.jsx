@@ -34,6 +34,7 @@ class MiddleMainSection extends React.Component {
                 <div className="middle-middle-container">
                     <Card cardPicture={php} level="BEGINNERS" technology="Fun with PHP" picture={darrel} name="Darrel Steward" percentage="68%" ratio="19/26" flag={USA} />
                     <Card cardPicture={figma} level="BEGINNERS" technology="Figma workshop" picture={darrel} name="Darrel Steward" percentage="68%" ratio="19/26" flag={USA} />
+                    <Card cardPicture={figma} level="BEGINNERS" technology="Figma workshop" picture={darrel} name="Darrel Steward" percentage="68%" ratio="19/26" flag={USA} />
                     
                 </div>
 
