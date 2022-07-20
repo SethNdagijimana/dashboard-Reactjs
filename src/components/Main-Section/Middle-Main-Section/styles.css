@@ -25,6 +25,10 @@ button{
     color: white;
 
 }
+.middle-middle-container{
+    display: flex;
+  
+}
 
 p{
     color: grey;
